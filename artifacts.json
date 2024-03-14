@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/ryansliao/artifact-directory.git",
+    "project-repository": "https://github.com/ryansliao/SD-County-Trip-Destination-Prediction/tree/q2_project.git",
+    "project-website-url": "https://minjinde.github.io/dsc-capstone-website/",
+    "project-website-code": "https://github.com/Minjinde/dsc-capstone-website.git"
 }
